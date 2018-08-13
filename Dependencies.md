@@ -19,3 +19,8 @@ sudo make install
 ```
 
 Didn't work? Installing also libdbusmenu-glib-dev libgtk2.0-dev libmate-panel-applet-dev
+
+
+```
+sudo apt install budgie-core-dev build-essential cmake exo-utils gobject-introspection gir1.2-budgie-1.0 git libbamf3-dev libbudgie-plugin0 libbudgietheme0 libdbus-glib-1-dev libexo-1-0 libexo-2-0 libexo-common libexo-helpers libffi-dev libgarcon-1-0 libgarcon-common libgirepository1.0-dev libgtk2.0-dev libmate-panel-applet-dev libpeas-dev libraven0 libstartup-notification0-dev libvala-0.40-0 libvalapanel-dev libvalapanel0 libwnck-3-dev libwnck-common libwnck22 libxfce4panel-2.0-4 libxfce4panel-2.0-dev libxfce4ui-1-0 libxfce4ui-2-0 libxfce4ui-common libxfce4util-common libxfce4util-dev libxfce4util7 libxfconf-0-2 libxfconf-0-dev libxml2-utils libxres-dev valac valac-0.40-vapi xfce4-panel xfce4-panel-dev xfconf
+```
