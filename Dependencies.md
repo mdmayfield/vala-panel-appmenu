@@ -18,4 +18,4 @@ cmake -DENABLE_MATE=ON -DENABLE_XFCE=OFF -DENABLE_BUDGIE=OFF -DENABLE_VALAPANEL=
 sudo make install
 ```
 
-Didn't work? Installing also libdbusmenu-glib-dev libgtk2.0-dev
+Didn't work? Installing also libdbusmenu-glib-dev libgtk2.0-dev libmate-panel-applet-dev
