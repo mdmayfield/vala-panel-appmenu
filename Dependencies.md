@@ -14,6 +14,8 @@ cd vala-panel-appmenu/
 mkdir build
 cd build
 git submodule init && git submodule update
-cmake -DENABLE_MATE=ON -DENABLE_XFCE=OFF -DENABLE_BUDGIE=OFF -DENABLE_VALAPANEL=OFF -DCMAKE_INSTALL_PREFIX=/usr ..
+cmake -DENABLE_MATE=ON -DENABLE_XFCE=OFF -DENABLE_BUDGIE=OFF -DENABLE_VALAPANEL=OFF -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=RelWithDebInfo ..
 sudo make install
 ```
+
+Didn't work? Installing also libdbusmenu-glib-dev libgtk2.0-dev
