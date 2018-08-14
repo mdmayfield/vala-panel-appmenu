@@ -61,11 +61,10 @@ libwnck-3-dev
 libwnck-common
 libwnck22
 libxres-dev
-
---to test:
 libvala-0.40-0
 valac
 valac-0.40-vapi
+
 
 BUDGIE:
 
