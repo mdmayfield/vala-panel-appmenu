@@ -62,6 +62,7 @@ libmate-panel-applet-dev
 
 
 XFCE:
+bamfdaemon *may be required, but preinstalled, elsewhere?*
 exo-utils
 libexo-1-0
 libexo-2-0
