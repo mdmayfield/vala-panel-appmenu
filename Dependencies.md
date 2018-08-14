@@ -26,7 +26,7 @@ sudo apt install budgie-core-dev build-essential cmake exo-utils gobject-introsp
 ```
 
 # WIP notes for different distros
-```
+
 UNIVERSAL:
 
 git
@@ -90,4 +90,4 @@ libvalapanel-dev
 
 Unknown:
 libxml2-utils
-```
+
