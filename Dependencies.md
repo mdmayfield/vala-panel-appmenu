@@ -32,7 +32,7 @@ UNIVERSAL:
 git
 build-essential
 cmake
-
+bamfdaemon
 libdbusmenu-glib-dev
 libgtk2.0-dev
 gobject-introspection
@@ -45,6 +45,7 @@ libstartup-notification0-dev
 libwnck-3-dev
 libwnck-common
 libwnck22
+libxml2-utils
 libxres-dev
 libvala-0.40-0
 valac
@@ -60,9 +61,7 @@ libraven0
 MATE:
 libmate-panel-applet-dev
 
-
 XFCE:
-bamfdaemon *may be required, but preinstalled, elsewhere?*
 exo-utils
 libexo-1-0
 libexo-2-0
@@ -88,7 +87,3 @@ xfconf
 Vala Panel:
 libvalapanel0
 libvalapanel-dev
-
-Unknown:
-libxml2-utils
-
