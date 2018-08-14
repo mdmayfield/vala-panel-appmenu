@@ -26,21 +26,7 @@ sudo apt install budgie-core-dev build-essential cmake exo-utils gobject-introsp
 ```
 
 # WIP notes for different distros
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
 UNIVERSAL:
 
 git
@@ -49,7 +35,6 @@ cmake
 
 libdbusmenu-glib-dev
 libgtk2.0-dev
-libmate-panel-applet-dev
 gobject-introspection
 libbamf3-dev
 libdbus-glib-1-dev
@@ -65,13 +50,44 @@ libvala-0.40-0
 valac
 valac-0.40-vapi
 
-
 BUDGIE:
-
+budgie-core-dev
+gir1.2-budgie-1.0
+libbudgie-plugin0
+libbudgietheme0
+libraven0
 
 MATE:
+libmate-panel-applet-dev
 
 
 XFCE:
+exo-utils
+libexo-1-0
+libexo-2-0
+libexo-common
+libexo-helpers
+libgarcon-1-0
+libgarcon-common
+libxfce4panel-2.0-4
+libxfce4panel-2.0-dev
+libxfce4ui-1-0
+libxfce4ui-2-0
+libxfce4ui-common
+libxfce4util7
+libxfce4util-common
+libxfce4util-dev
+libxfconf-0-2
+libxfconf-0-dev
+xfce4-panel
+xfce4-panel-dev
+xfconf
 
 
+Vala Panel:
+libvalapanel0
+libvalapanel-dev
+
+Unknown:
+libxml2-utils
+```
